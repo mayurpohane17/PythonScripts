@@ -1,6 +1,5 @@
 #Author:Mayur17
-#Date: Who cares
-#Functionality: Generates table in CSV
+
 import re
 import os
 import csv
